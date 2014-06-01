@@ -1,0 +1,7 @@
+markdown: rdiscount
+baseurl: /haysen
+author: lincystar
+pygments: true
+safe: true
+paginate: 16
+auto: true
